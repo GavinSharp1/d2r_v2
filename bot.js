@@ -9,4 +9,4 @@ client.on('message', message => {
   console.log(message);
 });
 
-client.login('MjYzMDY5NjAyNDUwMjQzNTg0.C0rkNw.3tC8lc-_SbMYhn7QH01JvEX_ZpA');
+client.login('MjczNzIzNzc5MTk1MDc2NjA4.C2rEbQ.CyVNqoABKlg1r0P3S0H_mTMf1qQ');
